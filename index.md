@@ -1,16 +1,20 @@
 # spotDL | Spotify Downloader Application
 spotDL Application for Easier use
+
 ---
+
 This is application for spotDL for easier use.
 For now only for Windows.
 
 ---
+
 ### Downloads
 - [spotDL](https://github.com/spotDL/spotify-downloader)
 - [FFmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z)
 - [spotDL App](https://github.com/CuteBladeYT/spotDL-SDA/blob/releases/spotDL.zip)
 
 ---
+
 ### How to Install
 1. Open Windows Command Prompt and type ``pip install spotdl``
 2. Open [this link](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z) in your browser and download
@@ -27,6 +31,7 @@ For now only for Windows.
 13. spotDL is now ready to use!
 
 ---
+
 ### How to Use
 1. Get URL from Spotify Track / Playlist / Artist
 2. Paste it here ![image](https://user-images.githubusercontent.com/78739707/127775306-06c66371-be5c-42ed-9d09-414f9cc01fff.png) and press ``Enter``
@@ -34,6 +39,7 @@ For now only for Windows.
 4. Done!
 
 ---
+
 ## Credits
 - All [spotDL](https://github.com/spotDL) contributors for creating **spotDL**
 - Me for creating **spotDL** application
