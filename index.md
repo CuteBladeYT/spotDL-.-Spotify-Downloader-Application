@@ -11,7 +11,7 @@ For now only for Windows.
 ### Downloads
 - [spotDL](https://github.com/spotDL/spotify-downloader)
 - [FFmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z)
-- [spotDL App](https://github.com/CuteBladeYT/spotDL-SDA/blob/releases/spotDL.zip)
+- [spotDL App](https://github.com/CuteBladeYT/spotDL-SDA/tree/releases)
 
 ---
 
